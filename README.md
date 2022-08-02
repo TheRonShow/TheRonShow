@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheRonShow
+- 👀 I’m interested in full-stack software development.
+- 🌱 I’m currently learning everything I can on Udemy and FreeCodeCamp.org.
+- 💞️ I’m looking to collaborate on projects involving the .NET framework, Unity, or whatever else catches my eye. I'm new to the developer scene so I'm still finding my niche.
